@@ -45,8 +45,10 @@ body {
     width: 450px;
     top: 10px;
 
-    animation: clouds-animation 10s infinite linear;
+    animation: clouds-animation 30s infinite linear;
 }
+
+
 /* ANIMATION */
 
 @keyframes pipe-scroll {
